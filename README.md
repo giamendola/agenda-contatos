@@ -7,3 +7,5 @@ Projeto C# com finalidade de estudo.
 - 3) Rodar o projeto
 
 O projeto está o mais simples possível a quesito de entendimento. O banco de dados utilizado é o MySQL, utilizando o serviço RDS da Amazon.
+
+A string de conexão está exposta no appsettings.json, não fiz a utilização do secrets.json para esse projeto.

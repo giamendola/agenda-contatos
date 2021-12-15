@@ -1,5 +1,5 @@
 # agenda-contatos
-Projeto C# com finalidade de estudo.
+Projeto C# utilizando Swagger com finalidade de estudo.
 
 - Como importar o projeto?
 - 1) Clonar o repositório para sua máquina.

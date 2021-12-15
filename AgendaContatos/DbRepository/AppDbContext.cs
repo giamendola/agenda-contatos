@@ -13,7 +13,7 @@ namespace AgendaContatos.DbRepository
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Contato>().HasData(new Contato { id = 1, nome = "Giovanni", telefone = "997798894", email = "giovanniamendola_0@yahoo.com.br" });
+            //modelBuilder.Entity<Contato>().HasData(new Contato { id = 1, nome = "Giovanni", telefone = "", email = "giovanniamendola_0@yahoo.com.br" });
         }
 
 
